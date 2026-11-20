@@ -8,7 +8,7 @@
         hello: "Hello, I'm",
         roles: ["Software Engineering Student", "Full-Stack Web Developer", "Competitive Programmer", "UI/UX Enthusiast"],
         tagline: "I design and build fast, accessible web experiences — and I love turning tricky problems into clean, elegant code.",
-        status: "Open to internships",
+        status: "Aspiring Software Engineer",
         photo: "images/image1.png",            // 👉 e.g. "images/profile.jpg"  (empty = gradient initials avatar)
         aboutPhoto: "images/image2.png",       // 👉 e.g. "images/about.jpg"    (empty = uses `photo` or initials)
         cv: "files/Resume.pdf", // 👉 put your CV PDF at this path
