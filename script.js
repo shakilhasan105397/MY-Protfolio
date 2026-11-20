@@ -10,7 +10,7 @@
         tagline: "I design and build fast, accessible web experiences — and I love turning tricky problems into clean, elegant code.",
         status: "Aspiring Software Engineer",
         photo: "images/image1.png",            // 👉 e.g. "images/profile.jpg"  (empty = gradient initials avatar)
-        aboutPhoto: "images/image2.png",       // 👉 e.g. "images/about.jpg"    (empty = uses `photo` or initials)
+        aboutPhoto: "images/image3.png",       // 👉 e.g. "images/about.jpg"    (empty = uses `photo` or initials)
         cv: "files/Resume.pdf", // 👉 put your CV PDF at this path
         cvUpdated: "PDF · updated 2026",
         email: "251-35-279@diu.edu.bd",
